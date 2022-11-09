@@ -13,6 +13,10 @@
 import { Provider } from 'react-redux'
 import { persistStore } from "redux-persist"
 import { PersistGate } from "redux-persist/integration/react"
+import PhoneSignIn from "./src/PhoneNumberLogin/PhoneAuth"
+import AppStack from "./src/Navigation/Appstack"
+import { NavigationContainer} from '@react-navigation/native';
+
 let persistor = persistStore(store)
 
  
@@ -23,7 +27,7 @@ let persistor = persistStore(store)
       <View style={{ flex: 1 }}>
       <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-      <ReduxDemo />
+      <PhoneSignIn />
       </PersistGate>
     </Provider>
    </View>

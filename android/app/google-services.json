@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "814295489790",
+    "project_id": "learningreduxtoolkit",
+    "storage_bucket": "learningreduxtoolkit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814295489790:android:eb177dfa13a7c086c119af",
+        "android_client_info": {
+          "package_name": "com.learningreduxtoolkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814295489790-g3gnaomc0pthrhd6ub9a1j42f1bckj9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learningreduxtoolkit",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "814295489790-qfojo9io8ac66m72bc91ioit5oo9l10d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPaDxXmR2fqd52Gt_VBi68xS1PEaPKC3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814295489790-qfojo9io8ac66m72bc91ioit5oo9l10d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
